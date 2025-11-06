@@ -19,3 +19,9 @@ Este projeto apresenta uma análise visual de desempenho de vendas e lucros, uti
 Baixando o arquivo .pbix desse repertório e abrindo no Power BI você terá acesso ao gráfico e poderá interagir como ele, filtrando informações se desejar. 
 
 
+---
+
+**🛠️Ferramentas usadas**
+
+Microsoft Power BI
+
